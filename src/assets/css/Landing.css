@@ -1,0 +1,20 @@
+.landing {
+  background-color: rgb(48, 52, 56);
+  height: 70vh;
+  /* padding-top: 12.5vh; */
+}
+
+.introduction {
+  color: white;
+  max-width: 450px;
+  /* padding-top: 2rem; */
+}
+
+.name {
+  color: red;
+}
+
+.pic1 {
+  border-radius: 125px;
+  max-width: 300px !important;
+}

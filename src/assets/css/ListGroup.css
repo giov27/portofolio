@@ -1,0 +1,18 @@
+.container-fluid {
+  background-color: rgb(48, 52, 56);
+}
+.list-group {
+  max-width: 550px;
+  border-radius: 20px !important;
+  /* box-shadow: 3px 4px rgba(204, 152, 152, 0.618); */
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.list-group-item {
+  background-color: transparent !important;
+  color: white !important;
+}
+.list-group-item-action:focus,
+.list-group-item-action:hover {
+  background: #006a67c4 !important;
+}
