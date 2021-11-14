@@ -15,7 +15,7 @@ const ListGroup = () => {
         </a>
         <a href className="list-group-item list-group-item-action group-item-dark">
           <div className="d-flex w-100 justify-content-between">
-            <h5 className="mb-1">Coordinator Sub-Unit Polewali Mandar</h5>
+            <h5 className="mb-1">Coordinator KKN-PPM UGM Sub-Unit Polewali Mandar</h5>
             <medium className="">2019</medium>
           </div>
           <p className="mb-1 text-muted">-</p>
